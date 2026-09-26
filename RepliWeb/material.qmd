@@ -27,5 +27,5 @@ Replicards package: [conda](https://anaconda.org/eliamascolo/replicards) or [pip
 
 ## Teacher slides
 
-Slides suggestion to present after the *Replicards* activity to contextualize and connect with biology the concepts “discovered” by the students during the activity. [[Slides](images/replicards_teachers_slides.pptx)]
+Suggested slides to present after the *Replicards* activity to contextualize and connect with biology the concepts “discovered” by the students during the activity. [[Slides](images/replicards_teachers_slides.pptx)]
 
